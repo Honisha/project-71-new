@@ -1,0 +1,71 @@
+body{
+    text-align: center;
+}
+#img1{
+    height: 500px;
+    width: 500px
+}
+.my_nav_bar{
+  position:sticky;
+    top:0;
+    z-index: 99999;
+}
+#img{
+    height: 500px;
+    width: 500px;
+    margin-left: 500px;
+ }
+#img1{
+    height: 500px;
+    width: 500px;
+    margin-left: 500px;
+ }
+#img2{
+    height: 500px;
+    width: 500px;
+    margin-left: 500px;
+ }
+
+.movie_head{
+    font-size: 10px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: darkorange;
+}
+input{
+    background: grey
+}
+.travel_mainDiv{
+    border: 1px solid grey;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.travel_mainDiv img{
+    width: 100%;
+}
+.travel_mainDiv hr{
+    width: 230px;
+}
+.travel_mainDiv h5{
+    margin-left: 20px;
+}
+.travel_mainDiv p{
+    margin-left: 20px;
+}
+
+.school_li{
+ margin-top: 10px;   
+}
+.school_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
